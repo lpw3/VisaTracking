@@ -23,10 +23,15 @@ $\color{green}{\text{She wants to view graphs of the USCIS backlog size over the
 $\color{cyan}{\text{She needs graphs with various form types and data sources that are clearly linked.}}$
 $\color{magenta}{\text{Michelle is an expert.}}$
 
-$\color{yellow}{\text{6. Who is the user?.}}$
-$\color{green}{\text{What do they want to do with the tool?}}$
-$\color{cyan}{\text{What needs and desires do they have for the tool?}}$
-$\color{magenta}{\text{What is their skill level?}}$
+$\color{yellow}{\text{6. Sharon is a researcher writing a paper on Nepali immigrant communities in the US.}}$
+$\color{green}{\text{Sharon would like to add descriptive information on the number of immigrants from Nepal to the US in 2024 to the introduction of her paper.}}$
+$\color{cyan}{\text{She needs to be able to access statistics by country and year in a downloadable format.}}$
+$\color{magenta}{\text{Sharon is a qualitative researcher and does not have technical expertise.}}$
+
+$\color{yellow}{\text{7. Valerie is an infectious disease doctor.}}$
+$\color{green}{\text{Valerie saw a patient whose visa was rejected due to having latent TB. She is curious how many people this happens to per year.}}$
+$\color{cyan}{\text{Valerie needs to quickly find via search tool information on "vaccines"}}$
+$\color{magenta}{\text{Valerie is not an expert on immigration, but is a technical expert.}}$
 
 $\color{yellow}{\text{7. Who is the user?.}}$
 $\color{green}{\text{What do they want to do with the tool?}}$
