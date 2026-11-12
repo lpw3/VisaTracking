@@ -33,15 +33,15 @@ $\color{green}{\text{Valerie saw a patient whose visa was rejected due to having
 $\color{cyan}{\text{Valerie needs to quickly find via search tool information on "vaccines"}}$
 $\color{magenta}{\text{Valerie is not an expert on immigration, but is a technical expert.}}$
 
-$\color{yellow}{\text{7. Who is the user?.}}$
-$\color{green}{\text{What do they want to do with the tool?}}$
-$\color{cyan}{\text{What needs and desires do they have for the tool?}}$
-$\color{magenta}{\text{What is their skill level?}}$
+$\color{yellow}{\text{8. Brian is a PhD student studying visa denials.}}$
+$\color{green}{\text{Brian has seen the PDF versions of this data on the Department of State but does not know how to extract them into machine-readable data.}}$
+$\color{cyan}{\text{Brian needs to download a CSV so he can run his own data exploration to understand the scope of visa denials over time.}}$
+$\color{magenta}{\text{Brian is a competent coder, but does not know anything about OCR.}}$
 
-$\color{yellow}{\text{8. Who is the user?.}}$
-$\color{green}{\text{What do they want to do with the tool?}}$
-$\color{cyan}{\text{What needs and desires do they have for the tool?}}$
-$\color{magenta}{\text{What is their skill level?}}$
+$\color{yellow}{\text{9. Kara saw in the news that rules around public charges have changed recently.}}$
+$\color{green}{\text{She would like to see how this has changed the number of visas denied for public charges.}}$
+$\color{cyan}{\text{They would like to quickly view a graph that shows these denials over time.}}$
+$\color{magenta}{\text{Kara is a non-technical non-expert user. }}$
 
 $\color{yellow}{\text{9. Who is the user?.}}$
 $\color{green}{\text{What do they want to do with the tool?}}$
