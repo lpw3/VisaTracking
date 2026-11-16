@@ -43,10 +43,15 @@ $\color{green}{\text{She would like to see how this has changed the number of vi
 $\color{cyan}{\text{They would like to quickly view a graph that shows these denials over time.}}$
 $\color{magenta}{\text{Kara is a non-technical non-expert user. }}$
 
-$\color{yellow}{\text{9. Who is the user?.}}$
-$\color{green}{\text{What do they want to do with the tool?}}$
-$\color{cyan}{\text{What needs and desires do they have for the tool?}}$
-$\color{magenta}{\text{What is their skill level?}}$
+$\color{yellow}{\text{10. Priya is a data journalist at a regional newspaper.}}$
+$\color{green}{\text{Priya is writing a story on how tourist visa issuances from India have recovered since the COVID-19 pandemic.}}$
+$\color{cyan}{\text{She needs to customize a chart and embed it directly in her online article.}}$
+$\color{magenta}{\text{Priya is a data expert but not an immigration expert.}}$
+
+$\color{yellow}{\text{11. Sofia is a Salvadoran citizen living in the US applying for a I-130 visa}}$
+$\color{green}{\text{Sofia would like to check on average wait times for this visa process}}$
+$\color{cyan}{\text{Sofia does not speak or read English, so needs to access this tool in Spanish.}}$
+$\color{magenta}{\text{Sofia is a non expert.}}$
 
 $\color{yellow}{\text{10. Who is the user?.}}$
 $\color{green}{\text{What do they want to do with the tool?}}$
