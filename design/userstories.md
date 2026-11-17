@@ -68,57 +68,57 @@ $\color{green}{\text{Rosa wants to give clients realistic expectations about imm
 $\color{cyan}{\text{She needs to filter issuance statistics by consulate and visa category and download the data to share with clients.}}$
 $\color{magenta}{\text{Rosa is an immigration law expert but does not work with data.}}$
 
-$\color{yellow}{\text{13. Ellen is a legislative aide for a member of Congress.}}$
+$\color{yellow}{\text{15. Ellen is a legislative aide for a member of Congress.}}$
 $\color{green}{\text{Ellen is preparing a briefing memo on how a recent travel restriction has affected visa issuances to nationals of the affected countries.}}$
 $\color{cyan}{\text{She needs a before-and-after comparison of issuances by nationality aligned with a specific policy and citations to the original State Department reports she can include in the memo.}}$
 $\color{magenta}{\text{Ellen is a policy expert but does not have a technical background.}}$
 
-$\color{yellow}{\text{14. Taylor is informed about current political events.}}$
+$\color{yellow}{\text{16. Taylor is informed about current political events.}}$
 $\color{green}{\text{Taylor is interested in knowing how visa approval rates have changed compared to the past.}}$
 $\color{cyan}{\text{Taylor would like a quick, user-friendly visualization showing approval/denial rates over time.}}$
 $\color{magenta}{\text{Taylor is a non-technical non-expert.}}$
 
-$\color{yellow}{\text{15. Chris is a PhD student running a qualitative study on visa approval rates.}}$
+$\color{yellow}{\text{17. Chris is a PhD student running a qualitative study on visa approval rates.}}$
 $\color{green}{\text{Chris would like to see how approval rates change with changes in administration.}}$
 $\color{cyan}{\text{Chris wants to be able to pull statistics on approval rates for each visa category across a broad time horizon.}}$
 $\color{magenta}{\text{Chris is a non-technical expert.}}$
 
-$\color{yellow}{\text{16. Liam and Casey are a married couple. Liam is a Mexican citizen and Casey is a U.S. citizen. They had just filed their I-130 form.}}$
+$\color{yellow}{\text{18. Liam and Casey are a married couple. Liam is a Mexican citizen and Casey is a U.S. citizen. They had just filed their I-130 form.}}$
 $\color{green}{\text{Casey would like to obtain a rough estimate about how long it would take for the form to be approved, so that they can plan out their next year together.}}$
 $\color{cyan}{\text{Casey wants to be able to obtain past approval times, under similar current administrations.}}$
 $\color{magenta}{\text{Casey is a non-technical, non-expert.}}$
 
-$\color{yellow}{\text{17. Matthew is a graduate student studying the socioeconomic effects of a particular administration.}}$
+$\color{yellow}{\text{19. Matthew is a graduate student studying the socioeconomic effects of a particular administration.}}$
 $\color{green}{\text{Matthew would like to know how a change to a particular administration has affected immigration approval and denial rates.}}$
 $\color{cyan}{\text{Matthew wants to be able to obtain visa statistics for one particular year, as well as the year before for comparison.}}$
 $\color{magenta}{\text{Matthew is a non-technical, non-expert.}}$
 
-$\color{yellow}{\text{18. Curtis is a data analyst analyzing long-term visa approval trends.}}$
+$\color{yellow}{\text{20. Curtis is a data analyst analyzing long-term visa approval trends.}}$
 $\color{green}{\text{Curtis wants to perform statistical analysis on visa approval and denial rates over time.}}$
 $\color{cyan}{\text{Curtis wants to be able to obtain time-series data over a long time horizon in a readable format.}}$
 $\color{magenta}{\text{Curtis is a technical, non-expert.}}$
 
-$\color{yellow}{\text{19. Rafa is a demographer who studies migration.}}$
+$\color{yellow}{\text{21. Rafa is a demographer who studies migration.}}$
 $\color{green}{\text{Rafa wants to know whether the makeup of immigrant visa issuances has changed after the pandemic}}$
 $\color{cyan}{\text{Rafa needs a centralized dataset with visa issurances by type and country over time.}}$
 $\color{magenta}{\text{Rafa is an expert in demography, but not programming}}$
 
-$\color{yellow}{\text{20. Amanda is a moderator of an online support group for people awaiting adjustment of status decisions.}}$
+$\color{yellow}{\text{22. Amanda is a moderator of an online support group for people awaiting adjustment of status decisions.}}$
 $\color{green}{\text{Amanda wants to share wait times for family and employment based I-485s at field offices across the country.}}$
 $\color{cyan}{\text{Amanda wants a heat map of wait times by field office regions for easy sharing}}$
 $\color{magenta}{\text{Amanda is a nonexpert}}$
 
-$\color{yellow}{\text{21. Ana works at a nonprofit organization that serves immigrant communities.}}$
+$\color{yellow}{\text{23. Ana works at a nonprofit organization that serves immigrant communities.}}$
 $\color{green}{\text{Ana is preparing for a presentation on how recent policy changes might affect asylum seekers. She wants to share statistics on the number of people who may be affected by the change.}}$
 $\color{cyan}{\text{Ana needs a dataset that includes the historical numbers of asylum petitions by year}}$
 $\color{magenta}{\text{Amanda is an expert in immigration policy, but not data science.}}$
 
-$\color{yellow}{\text{22. Elena is an economist who studies tourism.}}$
+$\color{yellow}{\text{24. Elena is an economist who studies tourism.}}$
 $\color{green}{\text{Elena wants to know whether the annual number of tourist visas issued has changed in the past five years, and whether the makeup of nationalities receiving tourist visas has changed.}}$
 $\color{cyan}{\text{Elena needs a dataset in .csv format with visa issuances by type and country}}$
 $\color{magenta}{\text{Elena is an expert in economics, but not programming or OCR.}}$
 
-$\color{yellow}{\text{23. Who is the user?.}}$
+$\color{yellow}{\text{25. Who is the user?.}}$
 $\color{green}{\text{What do they want to do with the tool?}}$
 $\color{cyan}{\text{What needs and desires do they have for the tool?}}$
 $\color{magenta}{\text{What is their skill level?}}$
