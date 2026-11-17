@@ -63,6 +63,16 @@ $\color{green}{\text{Allison wants to obtain data related to her project.}}$
 $\color{cyan}{\text{Allison would like to fetch data from a single source, instead of navigating hundreds of USCIS online datasets.}}$
 $\color{magenta}{\text{Allison is a technical expert, but not necessarily an immigration expert.}}$
 
+$\color{yellow}{\text{14. Rose is an immigration attorney at a firm that mostly serves clients from Central America.}}$
+$\color{green}{\text{Rosa wants to give clients realistic expectations about immigrant visa issuance at the consulates where their interviews will happen.}}$
+$\color{cyan}{\text{She needs to filter issuance statistics by consulate and visa category and download the data to share with clients.}}$
+$\color{magenta}{\text{Rosa is an immigration law expert but does not work with data.}}$
+
+$\color{yellow}{\text{13. Ellen is a legislative aide for a member of Congress.}}$
+$\color{green}{\text{Ellen is preparing a briefing memo on how a recent travel restriction has affected visa issuances to nationals of the affected countries.}}$
+$\color{cyan}{\text{She needs a before-and-after comparison of issuances by nationality aligned with a specific policy and citations to the original State Department reports she can include in the memo.}}$
+$\color{magenta}{\text{Ellen is a policy expert but does not have a technical background.}}$
+
 $\color{yellow}{\text{14. Who is the user?.}}$
 $\color{green}{\text{What do they want to do with the tool?}}$
 $\color{cyan}{\text{What needs and desires do they have for the tool?}}$
