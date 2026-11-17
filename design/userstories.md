@@ -53,10 +53,10 @@ $\color{green}{\text{Sofia would like to check on average wait times for this vi
 $\color{cyan}{\text{Sofia does not speak or read English, so needs to access this tool in Spanish.}}$
 $\color{magenta}{\text{Sofia is a non expert.}}$
 
-$\color{yellow}{\text{12. Greg is awaiting for the approval of his I-140 form.}}$
-$\color{green}{\text{Greg would like to consult what previous approval times for his visa looked liked in the past.}}$
-$\color{cyan}{\text{Greg is only curious about this information, and would like to compare past approval times against his own.}}$
-$\color{magenta}{\text{Greg is a non-technical, non-expert.}}$
+$\color{yellow}{\text{12. Mateo is awaiting for the approval of his I-140 form.}}$
+$\color{green}{\text{Mateo would like to consult what previous approval times for his visa looked liked in the past.}}$
+$\color{cyan}{\text{Mateo is only curious about this information, and would like to compare past approval times against his own.}}$
+$\color{magenta}{\text{Mateo is a non-technical, non-expert.}}$
 
 $\color{yellow}{\text{13. Allison is an undergraduate student whose senior capstone project is on analyzing visa approval rates over time.}}$
 $\color{green}{\text{Allison wants to obtain data related to her project.}}$
@@ -81,9 +81,24 @@ $\color{magenta}{\text{Taylor is a non-technical non-expert.}}$
 $\color{yellow}{\text{15. Chris is a PhD student running a qualitative study on visa approval rates.}}$
 $\color{green}{\text{Chris would like to see how approval rates change with changes in administration.}}$
 $\color{cyan}{\text{Chris wants to be able to pull statistics on approval rates for each visa category across a broad time horizon.}}$
-$\color{magenta}{\text{Chris is a technical expert, but not necessarily an immigration expert.}}$
+$\color{magenta}{\text{Chris is a non-technical expert.}}$
 
-$\color{yellow}{\text{16. Who is the user?.}}$
+$\color{yellow}{\text{16. Liam and Casey are a married couple. Liam is a Mexican citizen and Casey is a U.S. citizen. They had just filed their I-130 form.}}$
+$\color{green}{\text{Casey would like to obtain a rough estimate about how long it would take for the form to be approved, so that they can plan out their next year together.}}$
+$\color{cyan}{\text{Casey wants to be able to obtain past approval times, under similar current administrations.}}$
+$\color{magenta}{\text{Casey is a non-technical, non-expert.}}$
+
+$\color{yellow}{\text{17. Matthew is a graduate student studying the socioeconomic effects of a particular administration.}}$
+$\color{green}{\text{Matthew would like to know how a change to a particular administration has affected immigration approval and denial rates.}}$
+$\color{cyan}{\text{Matthew wants to be able to obtain visa statistics for one particular year, as well as the year before for comparison.}}$
+$\color{magenta}{\text{Matthew is a non-technical, non-expert.}}$
+
+$\color{yellow}{\text{18. Curtis is a data analyst analyzing long-term visa approval trends.}}$
+$\color{green}{\text{Curtis wants to perform statistical analysis on visa approval and denial rates over time.}}$
+$\color{cyan}{\text{Curtis wants to be able to obtain time-series data over a long time horizon in a readable format.}}$
+$\color{magenta}{\text{Curtis is a technical, non-expert.}}$
+
+$\color{yellow}{\text{19. Who is the user?.}}$
 $\color{green}{\text{What do they want to do with the tool?}}$
 $\color{cyan}{\text{What needs and desires do they have for the tool?}}$
 $\color{magenta}{\text{What is their skill level?}}$
