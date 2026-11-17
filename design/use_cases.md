@@ -22,3 +22,7 @@
 
 
 # What do we plan to support in V1? Save for V2? Does the data exist to support these use cases?
+# V1: Data compiled across year, visa type, and country. Examples of data type include issues, approvals, denials, wait times, refusal reasons, etc.
+# - Raw data as CSV files (pulled from multiple spreadsheets and PDF files)
+# - User friendly data visualization of major topics for quick view
+# V2: Resources for visa seekers such as personalized estimates?
