@@ -53,7 +53,17 @@ $\color{green}{\text{Sofia would like to check on average wait times for this vi
 $\color{cyan}{\text{Sofia does not speak or read English, so needs to access this tool in Spanish.}}$
 $\color{magenta}{\text{Sofia is a non expert.}}$
 
-$\color{yellow}{\text{10. Who is the user?.}}$
+$\color{yellow}{\text{12. Greg is awaiting for the approval of his I-140 form.}}$
+$\color{green}{\text{Greg would like to consult what previous approval times for his visa looked liked in the past.}}$
+$\color{cyan}{\text{Greg is only curious about this information, and would like to compare past approval times against his own.}}$
+$\color{magenta}{\text{Greg is a non-technical, non-expert.}}$
+
+$\color{yellow}{\text{13. Allison is an undergraduate student whose senior capstone project is on analyzing visa approval rates over time.}}$
+$\color{green}{\text{Allison wants to obtain data related to her project.}}$
+$\color{cyan}{\text{Allison would like to fetch data from a single source, instead of navigating hundreds of USCIS online datasets.}}$
+$\color{magenta}{\text{Allison is a technical expert, but not necessarily an immigration expert.}}$
+
+$\color{yellow}{\text{14. Who is the user?.}}$
 $\color{green}{\text{What do they want to do with the tool?}}$
 $\color{cyan}{\text{What needs and desires do they have for the tool?}}$
 $\color{magenta}{\text{What is their skill level?}}$
