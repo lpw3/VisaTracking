@@ -10,7 +10,11 @@
 - Compare incoming population across countries and visa types.
 - Filter by country, year, visa category, consular post or refusal reason
 - Download data as CSV with citations for source data
-3. The Non-Expert Info Seeker
+3. The Social Scientist
+- Download data that has been compiled into CSV format from disparate data sources
+- Access clear data source documentation
+- Replicate existing code to add new data sources as needed
+4. The Non-Expert Info Seeker
 - Search for a keyword among all variables
 - Visualize data in browser over time
 - Contextualize data with policy or event changes on the chart that effect visa regulations
