@@ -118,7 +118,52 @@ $\color{green}{\text{Elena wants to know whether the annual number of tourist vi
 $\color{cyan}{\text{Elena needs a dataset in .csv format with visa issuances by type and country}}$
 $\color{magenta}{\text{Elena is an expert in economics, but not programming or OCR.}}$
 
-$\color{yellow}{\text{25. Who is the user?.}}$
+$\color{yellow}{\text{25. Minh is a Vietnamese citizen who was admitted to a graduate program at a U.S. university and needs an F-1 student visa before the semester starts.}}$
+$\color{green}{\text{Minh wants to know when to book a consulate appointment and how likely it is that the application will be approved.}}$
+$\color{cyan}{\text{Minh needs to see how many F-1 visas were issued to applicants from Vietnam each month, and how often they were refused, so Minh can spot the busy season.}}$
+$\color{magenta}{\text{Minh is a first-time applicant and a non-expert.}}$
+
+$\color{yellow}{\text{26. Tomás is a Colombian software engineer working in the U.S. on F-1 student work authorization (OPT). The employer plans to sponsor Tomás for an H-1B work visa.}}$
+$\color{green}{\text{Tomás wants to see how many H-1B registrations were selected in the lottery each year and how many petitions were later approved or denied.}}$
+$\color{cyan}{\text{Tomás needs a simple chart by year of selection rates and approval rates, with a short explanation of the difference between being selected and being approved.}}$
+$\color{magenta}{\text{Tomás is comfortable with technology but is not an immigration expert.}}$
+
+$\color{yellow}{\text{27. Carlos is a U.S. citizen whose spouse, Marisol, lives in Guatemala. The I-130 petition was just approved, and the case now goes to the National Visa Center and then to a consulate interview.}}$
+$\color{green}{\text{Carlos wants to know how long the whole process will take from filing to the visa in hand, not just the USCIS part.}}$
+$\color{cyan}{\text{Carlos needs a timeline that shows each stage (USCIS, National Visa Center, consulate interview) with a recent wait time for each, so the stages can be added up.}}$
+$\color{magenta}{\text{Carlos is a non-expert.}}$
+
+$\color{yellow}{\text{28. Grace is an immigration manager in the HR department of a technology company with dozens of employees waiting for employment-based green cards.}}$
+$\color{green}{\text{Grace wants to show employees how quickly the Visa Bulletin cutoff dates for their category and country of birth have moved over the past several years.}}$
+$\color{cyan}{\text{Grace needs a chart of cutoff date movement by category and country, and a way to mark an employee priority date on it to see how big the gap is.}}$
+$\color{magenta}{\text{Grace knows the green card process well but is not a data or technical user.}}$
+
+$\color{yellow}{\text{29. Abebe is an Ethiopian citizen who was selected in the Diversity Visa lottery and was given a case number.}}$
+$\color{green}{\text{Abebe wants to know whether the case number is likely to be called for an interview before the end of the fiscal year, since the chance is lost if it is not.}}$
+$\color{cyan}{\text{Abebe needs to see how far the Africa case number cutoffs moved in past fiscal years, and how many Diversity Visas each country received, to judge the odds.}}$
+$\color{magenta}{\text{Abebe is a non-expert.}}$
+
+$\color{yellow}{\text{30. Nadia is in the U.S. on an H-4 visa as the spouse of an H-1B worker and is waiting for a work permit (I-765).}}$
+$\color{green}{\text{Nadia wants to be told when processing times for the I-765 change a lot, or when the rules for it change, instead of checking websites every week.}}$
+$\color{cyan}{\text{Nadia needs to save a form and office once and get a short email alert that says what changed and links to the official source.}}$
+$\color{magenta}{\text{Nadia is a non-expert but comfortable with apps.}}$
+
+$\color{yellow}{\text{31. Ibrahim is a U.S. citizen who is blind and uses a screen reader. Ibrahim has filed a K-1 petition (I-129F) to bring a future spouse to the United States.}}$
+$\color{green}{\text{Ibrahim wants to check how long K-1 cases are taking right now and whether wait times have been going up or down.}}$
+$\color{cyan}{\text{Ibrahim needs every chart to come with a text or table version that a screen reader can read, and every feature to work with only a keyboard.}}$
+$\color{magenta}{\text{Ibrahim is a non-expert but an experienced screen reader user.}}$
+
+$\color{yellow}{\text{32. Noah is a high school civics teacher preparing a lesson on how legal immigration to the United States works.}}$
+$\color{green}{\text{Noah wants to show students what the main visa types are, how many are issued each year, and how long the process takes.}}$
+$\color{cyan}{\text{Noah needs a few classroom-ready charts with plain-English explanations and a short glossary of terms like visa, petition, and green card.}}$
+$\color{magenta}{\text{Noah is comfortable with spreadsheets but is not an immigration expert.}}$
+
+$\color{yellow}{\text{33. Devon is a data scientist at a policy think tank who updates a monthly report on visa trends.}}$
+$\color{green}{\text{Devon wants to pull the latest data into a Python notebook automatically instead of downloading files by hand every month.}}$
+$\color{cyan}{\text{Devon needs a documented, stable way to fetch each dataset, a clear last-updated date, and a warning when a source changes its format.}}$
+$\color{magenta}{\text{Devon is a technical expert and fairly familiar with immigration data.}}$
+
+$\color{yellow}{\text{34. Who is the user?.}}$
 $\color{green}{\text{What do they want to do with the tool?}}$
 $\color{cyan}{\text{What needs and desires do they have for the tool?}}$
 $\color{magenta}{\text{What is their skill level?}}$
