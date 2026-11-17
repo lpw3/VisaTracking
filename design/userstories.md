@@ -73,7 +73,17 @@ $\color{green}{\text{Ellen is preparing a briefing memo on how a recent travel r
 $\color{cyan}{\text{She needs a before-and-after comparison of issuances by nationality aligned with a specific policy and citations to the original State Department reports she can include in the memo.}}$
 $\color{magenta}{\text{Ellen is a policy expert but does not have a technical background.}}$
 
-$\color{yellow}{\text{14. Who is the user?.}}$
+$\color{yellow}{\text{14. Taylor is informed about current political events.}}$
+$\color{green}{\text{Taylor is interested in knowing how visa approval rates have changed compared to the past.}}$
+$\color{cyan}{\text{Taylor would like a quick, user-friendly visualization showing approval/denial rates over time.}}$
+$\color{magenta}{\text{Taylor is a non-technical non-expert.}}$
+
+$\color{yellow}{\text{15. Chris is a PhD student running a qualitative study on visa approval rates.}}$
+$\color{green}{\text{Chris would like to see how approval rates change with changes in administration.}}$
+$\color{cyan}{\text{Chris wants to be able to pull statistics on approval rates for each visa category across a broad time horizon.}}$
+$\color{magenta}{\text{Chris is a technical expert, but not necessarily an immigration expert.}}$
+
+$\color{yellow}{\text{16. Who is the user?.}}$
 $\color{green}{\text{What do they want to do with the tool?}}$
 $\color{cyan}{\text{What needs and desires do they have for the tool?}}$
 $\color{magenta}{\text{What is their skill level?}}$
