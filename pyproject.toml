@@ -8,7 +8,7 @@ dynamics = ["version"]
 authors = [
     {name = "Abigail Harward", email = "harwaa@uw.edu"},
     {name = "Jasper Dong", email = "chjdong@uw.edu"},
-    {name = "Lauren Woycyznski", email = "lpw3@uw.edu},
+    {name = "Lauren Woycyznski", email = "lpw3@uw.edu"},
     {name = "Rithikesh Muddana", email = ""},
 ]
 description = "Tool for public use data and visualization on visas in the US"
