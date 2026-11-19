@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=64.0", "wheel", "setuptools_scm>=8.1"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "visatracking"
+dynamics = ["version"]
+authors = [
+    {name = "Abigail Harward", email = "harwaa@uw.edu"},
+    {name = "Jasper Dong", email = "chjdong@uw.edu"},
+    {name = "Lauren Woycyznski", email = "lpw3@uw.edu},
+    {name = "Rithikesh Muddana", email = ""},
+]
+description = "Tool for public use data and visualization on visas in the US"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "numpy",
+    "pandas",
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: Creative Commons :: CCO-1.0",
+    "Operating System :: OS Independent",
+]
