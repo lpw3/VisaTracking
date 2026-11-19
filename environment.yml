@@ -1,0 +1,6 @@
+name: visaenv
+channels:
+- conda-forge
+dependencies:
+- numpy>-1.23
+- matplotlib
